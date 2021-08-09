@@ -14,16 +14,16 @@
 
 - [AB Testing Project](https://github.com/HockChong/AB-Testing) 📚Numpy, StasModels, Logistic Regression, Bootstrapping
   - Run AB tests to help the company understand whether the new page leads to more conversion rate.
-
-- [Bike-share Analysis](https://github.com/HockChong/Google-Data-Analytics-Capstone-Project-Cyclistic-bike-share-analysis) 📚R, Tableau						
-  - Analyze casual rider's usage behavior in different time zones, help marketing teams discover insight that can be used for designing a marketing campaign to convert rider    users to members.
-  - Create a visualization tableau story to present findings to the marketing team.
  
 - [Investigate TMVB Movie Dataset](https://github.com/HockChong/TMVB-Movie) 📚Pandas, Matplotlib, Seaborn
   - Use Python to clean data, explore and analyze the most popular movie genres and high revenue movies insights.
  
 - [1000 Startup Investment Analysis](https://github.com/HockChong/1000-Startup-Investment-Analysis)  📚Tableau
   - Identified the startups that represent the best investment opportunity by creating an interactive Tableau dashboard.
+
+- [Bike-share Analysis](https://github.com/HockChong/Google-Data-Analytics-Capstone-Project-Cyclistic-bike-share-analysis) 📚R, Tableau						
+  - Analyze casual rider's usage behavior in different time zones, help marketing teams discover insight that can be used for designing a marketing campaign to convert rider    users to members.
+  - Create a visualization tableau story to present findings to the marketing team.
 
 - and more check out my repo 🤞
 
