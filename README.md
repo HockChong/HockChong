@@ -5,7 +5,7 @@ An organized, meticulous data analyst with 4+ years of hands-on working experien
 - 🔭 I’m currently working on projects and enrolling in the **Udacity Data Analyst NanoDegree[09|21] & DataCamp - Data Analyst with SQL[09|21]**.
 - 📚 Certificate : [DataCamp](https://www.datacamp.com/profile/ganhockchong) - Data Analyst with Python, Cousera - Google Data Analyst Professional & Python For Everybody 
 - 🌱 I’m currently learning and practice my data analytics skills everyday.
-- 📚 Skills : Python, R, SQL, Tableau
+- 📚 Skills : Python, R, SQL, [Tableau](https://public.tableau.com/app/profile/hockchong)
 - :compass: I love math, programming, data analytics, data science, AI, machine learning, and reading.
 - 📫 How to reach me: 
   - :bulb: [Medium articles](https://medium.com/@HockChong)
