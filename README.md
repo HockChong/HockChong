@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Hock Chong :crossed_fingers: 🚑 seeking a career transition into the data analytics field 🚒
+### Hi there 👋 I'm Hock Chong :crossed_fingers: 🚑 seeking a data analytics career opportunity  🚒
 
 An organized, meticulous data analyst with 4+ years of hands-on working experience in data analytics and trend analysis. Utilize strong analytical and research skills, help businesses make data-driven decisions, and identify the best investment opportunity. 
 
 - 🔭 I’m currently working on projects and enrolling in the **Udacity Data Analyst NanoDegree[09|21] & DataCamp - Data Analyst with SQL[09|21]**.
-- 📚 Certificate : [DataCamp](https://www.datacamp.com/profile/ganhockchong) - Data Analyst with Python, Cousera - Google Data Analyst Professional & Python For Everybody 
-- 🌱 I’m currently learning and practice my data analytics skills everyday.
-- 📚 Skills : Python, R, SQL, [Tableau](https://public.tableau.com/app/profile/hockchong)
+- 📚 Certificate : [DataCamp](https://www.datacamp.com/profile/ganhockchong) - Data Analyst with Python, Coursera - Google Data Analyst Professional & Python For Everybody 
+- 🌱 I’m currently learning and practice my data analytics skills every day.
+- 📚 Skills: Python, R, SQL, [Tableau](https://public.tableau.com/app/profile/hockchong)
 - :compass: I love math, programming, data analytics, data science, AI, machine learning, and reading.
 - 📫 How to reach me: 
   - :bulb: [Medium articles](https://medium.com/@HockChong)
