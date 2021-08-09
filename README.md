@@ -12,6 +12,8 @@ An organized, meticulous data analyst with 4+ years of hands-on working experien
   - :office: [LinkedIn](https://https://www.linkedin.com/in/hockchong/)
 - ⚡ Fun fact: 🧘 :basketball:
 
+💪My quotes about life: Failure is an opportunity to grow yourself. ✌️
+
 ### Projects
 
 - [AB Testing Project](https://github.com/HockChong/AB-Testing) 📚Numpy, StasModels, Logistic Regression, Bootstrapping
