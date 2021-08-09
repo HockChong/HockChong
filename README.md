@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Hock Chong :crossed_fingers: 🚑 seeking a career transition into the data analytics field 🚒
 
-- 🔭 I’m currently working on projects and enrolling in the **Udacity Data Analyst NanoDegree[09|21] & DataCamp - Data Analyst with SQL**.
+- 🔭 I’m currently working on projects and enrolling in the **Udacity Data Analyst NanoDegree[09|21] & DataCamp - Data Analyst with SQL[09|21]**.
 - 📚 Certificate : [DataCamp](https://www.datacamp.com/profile/ganhockchong) - Data Analyst with Python, Cousera - Google Data Analyst Professional & Python For Everybody 
 - 🌱 I’m currently learning data analytics everyday and seeking a data analytics career opportunity.
 - 📚 Skills : Python, R, SQL, Tableau
