@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Hock Chong :crossed_fingers: 🚑 seeking a data analytics career opportunity  🚒
 
-An organized, meticulous data analyst with 4+ years of hands-on working experience in data analytics and trend analysis. Utilize strong analytical and research skills, help businesses make data-driven decisions, and identify the best investment opportunity. 
 
 - 🔭 I’m currently working on projects and enrolling in the **Udacity Data Analyst NanoDegree[11|21] & DataCamp - Data Analyst with SQL[11|21]**.
 - 📚 Certificate : [DataCamp](https://www.datacamp.com/profile/ganhockchong) - Data Analyst with Python, Coursera - Google Data Analyst Professional & Python For Everybody 
@@ -31,7 +30,6 @@ An organized, meticulous data analyst with 4+ years of hands-on working experien
 
 - and more check out my repo 🤞
 
-[![Hock Chong's github stats](https://github-readme-stats.vercel.app/api?username=HockChong&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 # Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@HockChong/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@HockChong/0" alt="Recent Article 0">
