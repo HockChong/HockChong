@@ -15,10 +15,10 @@
 
 ### Projects
 
-- [AB Testing Project](https://github.com/HockChong/AB-Testing) 📚Numpy, StasModels, Logistic Regression, Bootstrapping
+- [AB Testing Project](https://github.com/HockChong/Udacity-Data-Analyst-NanoDegree/tree/main/Project%20%233%20Analyze%20AB%20Test%20Results) 📚Numpy, StasModels, Logistic Regression, Bootstrapping
   - Run AB tests to help the company understand whether the new page leads to more conversion rate.
  
-- [Investigate TMVB Movie Dataset](https://github.com/HockChong/TMVB-Movie) 📚Pandas, Matplotlib, Seaborn
+- [Investigate TMVB Movie Dataset](https://github.com/HockChong/Udacity-Data-Analyst-NanoDegree/tree/main/Project%20%232%20TMDb%20Movie%20Analysis) 📚Pandas, Matplotlib, Seaborn
   - Use Python to clean data, explore and analyze the most popular movie genres and high revenue movies insights.
  
 - [1000 Startup Investment Analysis](https://github.com/HockChong/1000-Startup-Investment-Analysis)  📚Tableau
