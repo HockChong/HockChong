@@ -2,7 +2,7 @@
 
 An organized, meticulous data analyst with 4+ years of hands-on working experience in data analytics and trend analysis. Utilize strong analytical and research skills, help businesses make data-driven decisions, and identify the best investment opportunity. 
 
-- 🔭 I’m currently working on projects and enrolling in the **Udacity Data Analyst NanoDegree[09|21] & DataCamp - Data Analyst with SQL[09|21]**.
+- 🔭 I’m currently working on projects and enrolling in the **Udacity Data Analyst NanoDegree[09|21] & DataCamp - Data Analyst with SQL[11|21]**.
 - 📚 Certificate : [DataCamp](https://www.datacamp.com/profile/ganhockchong) - Data Analyst with Python, Coursera - Google Data Analyst Professional & Python For Everybody 
 - 🌱 I’m currently learning and practice my data analytics skills every day.
 - 📚 Skills: Python, R, SQL, [Tableau](https://public.tableau.com/app/profile/hockchong)
