@@ -1,5 +1,6 @@
 # 👋 I'm Hock Chong :crossed_fingers: 🚑 seeking a data analytics career opportunity  🚒
 
+***
 ## About Me 
 - 5 years working experience in research and data analysis before I start learn Python, SQL, R & Tableau
 - 📚 Certificate : [DataCamp](https://www.datacamp.com/profile/ganhockchong) - Data Analyst with Python, Coursera - Google Data Analyst Professional & Python For Everybody 
