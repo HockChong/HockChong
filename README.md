@@ -2,7 +2,6 @@
 
 ## About Me 
 - 5 years working experience in research and data analysis before I start learn Python, SQL, R & Tableau
-- 🔭 I’m currently working on projects and enrolling in the **Udacity Data Analyst NanoDegree[11|21] & DataCamp - Data Analyst with SQL[11|21]**.
 - 📚 Certificate : [DataCamp](https://www.datacamp.com/profile/ganhockchong) - Data Analyst with Python, Coursera - Google Data Analyst Professional & Python For Everybody 
 - 🌱 I’m currently learning and practice my data analytics skills every day.
 - 📚 Skills: Python, R, SQL, [Tableau](https://public.tableau.com/app/profile/hockchong)
@@ -14,8 +13,16 @@
 
 💪My quotes about life: Failure is an opportunity to grow yourself. ✌️
 
+***
+
+## Currently Learning🚧 :
+- [Udacity Data Analyst NanoDegree](https://github.com/HockChong/Udacity-Data-Analyst-NanoDegree)[July - Nov 21] 
+- DataCamp - Data Analyst with SQL[July - Dec 21]
+- WorldQuant University Applied Data Science [Sep - Dec 21]
+
 ## Click [here](https://github.com/HockChong/Portfolio-Guide/blob/main/README.md) for my portfolio guide. 
 
+***
 
 ## Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@HockChong/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@HockChong/0" alt="Recent Article 0">
