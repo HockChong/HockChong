@@ -16,8 +16,8 @@
 ***
 
 ## Currently Learning🚧 :
-- [Udacity Data Analyst NanoDegree](https://github.com/HockChong/Udacity-Data-Analyst-NanoDegree)[July - Nov 21] 
-- DataCamp - Data Analyst with SQL[July - Dec 21]
+- [Udacity Data Analyst NanoDegree](https://github.com/HockChong/Udacity-Data-Analyst-NanoDegree) [July - Nov 21] 
+- DataCamp - Data Analyst with SQL [July - Dec 21]
 - WorldQuant University Applied Data Science [Sep - Dec 21]
 
 ## Click [here](https://github.com/HockChong/Portfolio-Guide/blob/main/README.md) for my portfolio guide. 
