@@ -1,4 +1,4 @@
-# 👋 I'm Hock Chong :crossed_fingers: 🚑 seeking a data analytics career opportunity  🚒
+# 👋 I'm Hock Chong :crossed_fingers: Self-Taught Data Analyst 
 
 ***
 ## About Me 
