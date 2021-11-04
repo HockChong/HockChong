@@ -2,7 +2,6 @@
 
 ***
 ## About Me 
-- 5 years working experience in research and data analysis before I start learn Python, SQL, R & Tableau
 - 📚 Certificate : [DataCamp](https://www.datacamp.com/profile/ganhockchong) - Data Analyst with Python, Coursera - Google Data Analyst Professional & Python For Everybody 
 - 🌱 I’m currently learning and practice my data analytics skills every day.
 - 📚 Skills: Python, R, SQL, [Tableau](https://public.tableau.com/app/profile/hockchong)
