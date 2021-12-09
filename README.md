@@ -15,10 +15,6 @@
 
 ***
 
-## Currently Learning🚧 :
-- DataCamp - Data Analyst with SQL [July - Dec 21]
-- WorldQuant University Applied Data Science [Sep - Dec 21]
-
 ## Click [here](https://github.com/HockChong/Portfolio-Guide/blob/main/README.md) for my portfolio guide. 
 
 ***
