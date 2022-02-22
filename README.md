@@ -1,4 +1,4 @@
-# 👋 I'm Hock Chong :crossed_fingers: Self-Taught Data Analyst 
+# 👋 I'm Hock Chong 
 
 ***
 ## About Me 
