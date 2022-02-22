@@ -9,7 +9,6 @@
 - 📫 How to reach me: 
   - :bulb: [Medium articles](https://medium.com/@HockChong)
   - :office: [LinkedIn](https://https://www.linkedin.com/in/hockchong/)
-- ⚡ Fun fact: 🧘 :basketball:
 
 💪My quotes about life: Failure is an opportunity to grow yourself. ✌️
 
